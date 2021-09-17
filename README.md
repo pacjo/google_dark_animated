@@ -1,4 +1,4 @@
-# Google Dark Theme
+# Google Dark Theme Animated
 
 A Home Assistant theme inspired on Google app dark mode.
 <br />
