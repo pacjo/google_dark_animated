@@ -37,6 +37,8 @@ frontend:
 1. Open your Home Assistant **Profile**
 2. Under, **Themes**, select the new Google Dark Theme
 
+</br>
+
 ### Thanks to:
 1. [JuanMTech](https://github.com/JuanMTech) for original project
 2. [orickcorreia](https://github.com/orickcorreia) for animated icons (from his Caule Themes Pack 1)
