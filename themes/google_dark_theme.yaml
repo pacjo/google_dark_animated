@@ -1,9 +1,5 @@
-# Theme based on Google app dark theme
-# Creator: Juan - @juanmtech
-# Website: https://www.juanmtech.com
-# YouTube Channel: https://youtube.com/juanmtech
-# My Home Assistant Config files: https://github.com/JuanMTech/Home_Assistant_files
-#
+# Original creator: Juan - @juanmtech
+# Creator of fork: pacjo (github.com/pacjo)
 #
 Google Dark Theme:
   # Header:
