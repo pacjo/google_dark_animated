@@ -35,7 +35,7 @@ frontend:
 
 ### Enable theme
 1. Open your Home Assistant **Profile**
-2. Under, **Themes**, select the new Google Dark Theme
+2. Under, **Themes**, select the new Google Dark Animated theme
 
 </br>
 
